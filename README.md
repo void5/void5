@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...  
+  [Python](https://python.org)  
+  [C++](https://isocpp.org)
+- 😄 Pronouns: he/him/his or they/them/theirs
+- 📫 How to reach me: [Post something in my discussions](https://github.com/void5/void5/discussions/new?category=general) and I'm likely to see it.
 
+  
 <!--
 **void5/void5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
